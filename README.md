@@ -9,9 +9,10 @@ A collection of Stop Cop City/Defend the Atlanta Forest movement resources.
  - [Cop City and the Prison Industrial Complex Analysis Article](https://www.mainlinezine.com/cop-city-and-the-prison-industrial-complex-in-atlanta/)
 
 ## Socials
- - Defend the Atlanta Forest: 
-   - Twitter: https://twitter.com/defendATLforest (backup: https://twitter.com/defendATLf0rest)
-   - Email: defendtheatlantaforest@protonmail.com
+
+### Defend the Atlanta Forest: 
+ - Twitter: https://twitter.com/defendATLforest (backup: https://twitter.com/defendATLf0rest)
+ - Email: defendtheatlantaforest@protonmail.com
 
 ## What can I do?
 
