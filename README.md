@@ -1,17 +1,18 @@
 # Stop Cop City
 A collection of Stop Cop City/Defend the Atlanta Forest movement resources.
 
-## Websites
+## What is Stop Cop City?
  - https://www.stopcopcitysolidarity.org/
  - https://defendtheatlantaforest.org/
  - [Communique submission and posting site](https://scenes.noblogs.org/post/category/communiques/)
  - [First communique](https://anarchistnews.org/content/no-whistling-atlanta-forest-communique)
  - [Cop City and the Prison Industrial Complex Analysis Article](https://www.mainlinezine.com/cop-city-and-the-prison-industrial-complex-in-atlanta/)
 
-## Socials
+## Where can I hear more?
 
 ### Defend the Atlanta Forest: 
- - Twitter: https://twitter.com/defendATLforest (backup: https://twitter.com/defendATLf0rest)
+ - [Twitter](https://twitter.com/defendATLforest)
+  - [Backup Twitter](https://twitter.com/defendATLf0rest)
  - Email: defendtheatlantaforest@protonmail.com
 
 ## What can I do?
