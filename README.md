@@ -11,7 +11,7 @@ A collection of Stop Cop City/Defend the Atlanta Forest movement resources.
 ## Where can I hear more?
 
 ### Defend the Atlanta Forest: 
- - [Twitter](https://twitter.com/defendATLforest) (and [Backup Twitter](https://twitter.com/defendATLf0rest))
+ - [Twitter](https://twitter.com/defendATLforest) (and [backup Twitter](https://twitter.com/defendATLf0rest))
  - Email: defendtheatlantaforest@protonmail.com
 
 ## What can I do?
