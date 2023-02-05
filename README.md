@@ -13,6 +13,8 @@ A collection of Stop Cop City/Defend the Atlanta Forest movement resources.
 ### Defend the Atlanta Forest: 
  - [Twitter](https://twitter.com/defendATLforest) (and [backup Twitter](https://twitter.com/defendATLf0rest))
  - Email: defendtheatlantaforest@protonmail.com
+ - Regional Accounts
+   - Charlotte, NC Instagram: @stopcopcity.clt
 
 ## What can I do?
 
