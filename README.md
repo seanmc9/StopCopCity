@@ -23,6 +23,7 @@ A collection of Stop Cop City/Defend the Atlanta Forest movement resources.
  - [Direct Action Toolkit and FAQ](https://docs.google.com/document/d/19PibMZtGA4vU3UJULRyFucLbP9Tl2ZYAcTeSi3CtXXs/edit?usp=drivesdk)
  - [Stop Cop City Take Action Page](https://www.stopcopcitysolidarity.org/takeaction)
  - [Stop Cop City Targets Page](https://www.stopcopcitysolidarity.org/targets)
+ - [stopcopcity.net](https://stopcopcity.net/) - a site for digital direct action put together by genzforchange, explained [here](https://twitter.com/micahinATL/status/1623321963983765504?s=20&t=U1j4bgpz_KCdq3vIcxowug)
 
 ### How do I move my money out of institutions that are funding Cop City?
  - Bank of America, Wells Fargo, Truist, Cadence, and Chase banks are funding Cop City.
